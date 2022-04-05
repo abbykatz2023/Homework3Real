@@ -1,2 +1,2 @@
-# Homework3Real
-THE REAL ONE!
+# Homework3
+Homework 3 for COMP333
